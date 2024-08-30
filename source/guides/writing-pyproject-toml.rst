@@ -163,7 +163,7 @@ This field is required, although it is often marked as dynamic using
    dynamic = ["version"]
 
 This allows use cases such as filling the version from a ``__version__``
-attribute or a Git tag. Consult :ref:`Single sourcing the version` for more
+attribute or a Git tag. Consult :ref:`Single sourcing the version discussion` for more
 details.
 
 
